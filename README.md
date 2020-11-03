@@ -36,20 +36,31 @@ Let me tell you a bit about my background.
 ✔	System architecture (DRY, KISS, YAGNI, SOLID, GoF, DDD, CQRS, Microservices)
 
 ✔	Database design (T-SQL Programming, Entity Framework, MS SQL Server, PostgreSQL)
+
 ✔	API design (ASP.NET Core WebAPI, WCF)
+
 ✔	Back-end logic design (C#, .NET Framework, Multithreading)
+
 ✔	Front-end applications design (Angular, RxJS, ASP.NET MVC, Razor Pages, Typescript, HTML5, CSS3, SCSS)
+
 ✔	UX/UI prototyping (Material Design, Balsamiq)
+
 ✔	DevOps engineering (Docker, Jenkins, Bitbucket, Gitlab, NGINX, IIS)
+
 ✔	Team management (Agile approach, Jira, Trello, Big Picture Gantt, Confluence)
+
 ✔	Recruiting (Posting Vacancies, Creating Test Tasks, Interviewing)
 
 🧑 Soft Skills:
 
 ✔	Excellent communicator: I communicate efficiently and professionally with customers, teammates, and managers. 
-✔	Pro-active: I am an intuitive problem solver who can always come up with suggestions and ideas.
-✔	Rigorous: I have an eye for detail and always ensure the highest quality of work.
-✔	Self-motivated and self-organized with strong leadership skills.
-✔	Excellent teamwork skills
-✔	Work done on time every time
 
+✔	Pro-active: I am an intuitive problem solver who can always come up with suggestions and ideas.
+
+✔	Rigorous: I have an eye for detail and always ensure the highest quality of work.
+
+✔	Self-motivated and self-organized with strong leadership skills.
+
+✔	Excellent teamwork skills
+
+✔	Work done on time every time
