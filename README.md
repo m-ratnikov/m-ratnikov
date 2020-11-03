@@ -34,6 +34,7 @@ Let me tell you a bit about my background.
 🛠 Hard Skills:  
 
 ✔	System architecture (DRY, KISS, YAGNI, SOLID, GoF, DDD, CQRS, Microservices)
+
 ✔	Database design (T-SQL Programming, Entity Framework, MS SQL Server, PostgreSQL)
 ✔	API design (ASP.NET Core WebAPI, WCF)
 ✔	Back-end logic design (C#, .NET Framework, Multithreading)
@@ -51,3 +52,4 @@ Let me tell you a bit about my background.
 ✔	Self-motivated and self-organized with strong leadership skills.
 ✔	Excellent teamwork skills
 ✔	Work done on time every time
+
