@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello! My name is Michael. 
-
 🔸 I am a professional software developer and architect with 10+ years of experience. However, I prefer to talk about myself as a problem solver and a reliable partner who helps to digitalize your ideas and create beautiful software solutions. 
 
 🔸 I have a clear understanding of every step that needs to be taken from the first draft written on a bunch of sticky notes to the sophisticated web platform deployed to production. As I have successfully done this many times, I know the pitfalls and how to avoid them. I would love to apply my experience to your project. Let’s rock the world by bringing your innovative ideas to life! 
