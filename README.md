@@ -1,66 +1,31 @@
-Hi there 👋
+🔸𝟏𝟓 𝐘𝐞𝐚𝐫𝐬 𝐨𝐟 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞
+🔸𝟑 𝐒𝐭𝐚𝐫𝐭𝐮𝐩𝐬 𝐋𝐚𝐮𝐧𝐜𝐡𝐞𝐝 𝐟𝐫𝐨𝐦 𝐒𝐜𝐫𝐚𝐭𝐜𝐡 𝐭𝐨 𝐅𝐢𝐧𝐢𝐬𝐡
+🔸𝐓𝐨𝐩 𝟑% 𝐨𝐟 𝐓𝐚𝐥𝐞𝐧𝐭𝐬 𝐨𝐧 𝐔𝐩𝐰𝐨𝐫𝐤
 
-<!--
-**m-ratnikov/m-ratnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I’m Michael, a Fractional CTO and Microsoft .NET Solution Architect with 15 years of experience. I help small and medium businesses launch innovative products, modernize legacy systems, and navigate complex tech challenges. 
 
-Here are some ideas to get you started:
+Over my career, I’ve delivered dozens of projects across industries like Transportation, Automotive, E-Travel, Banking, Oil & Gas, and Insurance, in roles ranging from Full Stack Developer to CTO.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔸𝐖𝐡𝐚𝐭 𝐈 𝐁𝐫𝐢𝐧𝐠 𝐭𝐨 𝐭𝐡𝐞 𝐓𝐚𝐛𝐥𝐞
 
-🔸 I am a professional software developer and architect with 10+ years of experience. However, I prefer to talk about myself as a problem solver and a reliable partner who helps to digitalize your ideas and create beautiful software solutions. 
+I specialize in building SaaS products, covering everything from initial solution architecture to team building and deployment. 
 
-🔸 I have a clear understanding of every step that needs to be taken from the first draft written on a bunch of sticky notes to the sophisticated web platform deployed to production. As I have successfully done this many times, I know the pitfalls and how to avoid them. I would love to apply my experience to your project. Let’s rock the world by bringing your innovative ideas to life! 
+Here’s how I help:
 
-Let me tell you a bit about my background.
+▸ 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞: I transform business requirements into the right technology components, laying a scalable foundation for future growth
+▸ 𝐓𝐞𝐚𝐦 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠: I assemble the ideal team for your project, ensuring technical expertise and cultural fit.
+▸ 𝐈𝐧𝐟𝐫𝐚𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞 & 𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭: I configure hosting, cloud infrastructure, and deployment pipelines to ensure smooth, secure operations.
+▸ 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬-𝐃𝐫𝐢𝐯𝐞𝐧 𝐓𝐞𝐜𝐡 𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐲: Every decision I make aligns with your business goals, ensuring the platform is both technically robust and adds real value.
 
-🔸 I started my career developing enterprise desktop applications using Microsoft’s stack of technologies. Since that time dozens of APIs have been developed, hundreds of database tables have been designed, thousands of lines of code have been written, and an exceptional amount of positive interactions have taken place while working together with my clients and teammates.
+🔸𝐌𝐲 𝐫𝐞𝐜𝐞𝐧𝐭 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 (web platforms build from scratch to completion)
 
-🔸 For the last five years, I’ve been focusing on web development. I love to build systems from scratch. My last two projects were startups where my role was Full Stack Developer and Tech Lead.
+▸ 𝐎𝐦𝐧𝐢-𝐂𝐡𝐚𝐧𝐧𝐞𝐥 𝐂𝐑𝐌 𝐟𝐨𝐫 𝐈𝐧𝐬𝐮𝐫𝐚𝐧𝐜𝐞: Modernized a legacy CRM into an AI-powered platform with omni-channel communication, SOC2 and HIPAA compliance, and scalable AWS infrastructure.
+▸ 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐞𝐝 𝐂𝐚𝐫 𝐒𝐞𝐫𝐯𝐢𝐜𝐞 𝐁𝐨𝐨𝐤𝐢𝐧𝐠 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦: Developed a platform with a database of 150M spare parts, real-time pricing, and microservices architecture, serving customers and repair shops.
 
-🔸 As a Full Stack Developer, I’m passionate about project architecture, and writing clean, testable code using the best practices and design patterns. Frameworks that I normally use in my projects are ASP.NET Core and Angular.
+🔸𝐌𝐲 𝐏𝐡𝐢𝐥𝐨𝐬𝐨𝐩𝐡𝐲
 
-🔸 As a Tech Lead, I have vast experience in providing a clear and transparent interaction between business and development departments. I have built several teams and all the infrastructure necessary for their management. This position has usually required me to combine several roles such as architect, developer, mentor, project manager, DevOps engineer, and recruiter. 
+Throughout my career, I've been reassured many times that “the best is the enemy of the good”. In my work, I adhere to this philosophy by keeping things simple and clear, guided by the principles of KISS (Keep It Simple, Stupid) and YAGNI (You Ain't Gonna Need It).
 
-🔸 As well as being able to build everything from the ground up, I can also contribute to an existing project. I have no problem dealing with legacy code and have extensive experience in refactoring and optimization. I can play the role of an all-in-one independent executor as well as a friendly and responsible team member. 
+🔸𝐒𝐨𝐟𝐭𝐰𝐢𝐬𝐞𝐫𝐲 - 𝐌𝐲 𝐂𝐨𝐦𝐩𝐚𝐧𝐲
 
-🛠 Hard Skills:  
-
-✔	System architecture (DRY, KISS, YAGNI, SOLID, GoF, DDD, CQRS, Microservices)
-
-✔	Database design (T-SQL Programming, Entity Framework, MS SQL Server, PostgreSQL)
-
-✔	API design (ASP.NET Core WebAPI, WCF)
-
-✔	Back-end logic design (C#, .NET Framework, Multithreading)
-
-✔	Front-end applications design (Angular, RxJS, ASP.NET MVC, Razor Pages, Typescript, HTML5, CSS3, SCSS)
-
-✔	UX/UI prototyping (Material Design, Balsamiq)
-
-✔	DevOps engineering (Docker, Jenkins, Bitbucket, Gitlab, NGINX, IIS)
-
-✔	Team management (Agile approach, Jira, Trello, Big Picture Gantt, Confluence)
-
-✔	Recruiting (Posting Vacancies, Creating Test Tasks, Interviewing)
-
-🧑 Soft Skills:
-
-✔	Excellent communicator: I communicate efficiently and professionally with customers, teammates, and managers. 
-
-✔	Pro-active: I am an intuitive problem solver who can always come up with suggestions and ideas.
-
-✔	Rigorous: I have an eye for detail and always ensure the highest quality of work.
-
-✔	Self-motivated and self-organized with strong leadership skills.
-
-✔	Excellent teamwork skills
-
-✔	Work done on time every time
+As the Founder & CEO of Softwisery, I lead a software development and consulting company focused on premium quality solutions for SMBs. Our expertise lies in legacy modernization and cloud migration, helping businesses scale and innovate with confidence.
