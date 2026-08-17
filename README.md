@@ -2,7 +2,7 @@
 🔸𝟑 𝐒𝐭𝐚𝐫𝐭𝐮𝐩𝐬 𝐋𝐚𝐮𝐧𝐜𝐡𝐞𝐝 𝐟𝐫𝐨𝐦 𝐒𝐜𝐫𝐚𝐭𝐜𝐡 𝐭𝐨 𝐅𝐢𝐧𝐢𝐬𝐡
 🔸𝐓𝐨𝐩 𝟑% 𝐨𝐟 𝐓𝐚𝐥𝐞𝐧𝐭𝐬 𝐨𝐧 𝐔𝐩𝐰𝐨𝐫𝐤
 
-Hello! I’m Michael, a Fractional CTO and Microsoft .NET Solution Architect with 15 years of experience. I help small and medium businesses launch innovative products, modernize legacy systems, and navigate complex tech challenges. 
+Hello! I’m Michael, a Fractional CTO and Microsoft .NET Solution Architect with 18 years of experience. I help small and medium businesses launch innovative products, modernize legacy systems, and navigate complex tech challenges. 
 
 Over my career, I’ve delivered dozens of projects across industries like Transportation, Automotive, E-Travel, Banking, Oil & Gas, and Insurance, in roles ranging from Full Stack Developer to CTO.
 
